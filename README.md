@@ -1,4 +1,4 @@
-# Finansal CRM Uygulaması
+# MVC Stok/Satış Uygulaması
 
 Bu proje, MVC kullanılarak katmanlı mimaride geliştirilmiş bir Yaz okulu öğrenci kayıt uygulamasıdır. Uygulama, öğrencileri listelemek, eklemek, silmek ve güncelleme işlemlerini gerçekleştirir. Aynı zamanda ders listesine erişim sağlanır. 
 
